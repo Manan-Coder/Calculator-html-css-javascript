@@ -61,6 +61,8 @@ body {
     margin-top: 50px;
     width: 330px;
     border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
 
 }
 
